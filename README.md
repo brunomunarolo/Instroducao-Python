@@ -7,7 +7,7 @@
 - Lembre-se de abrir um editor de códigos para seguir junto ao tutorial.
 
 --------------------------------------------
-#### Abaixo, a instrução para você instalar no Windows
+    Abaixo, a instrução para você instalar no Windows
 --------------------------------------------
 
 # Introdução ao Python
@@ -67,11 +67,11 @@ https://www.w3schools.com/python
 
    - Desça até achar
 
-     Python 3.7.8 - June 27, 2020
+    Python 3.7.8 - June 27, 2020
 
-     Note que Python 3.7.8 não pode ser usado no Windows XP ou anterior.
+    Note que Python 3.7.8 não pode ser usado no Windows XP ou anterior.
 
-     Link de Download Direto > [Download Windows x86-64 executable installer](https://www.python.org/ftp/python/3.7.8/python-3.7.8-amd64.exe)
+    Link de Download Direto > [Download Windows x86-64 executable installer](https://www.python.org/ftp/python/3.7.8/python-3.7.8-amd64.exe)
 
 5 - Instalação
 
@@ -107,21 +107,21 @@ https://www.w3schools.com/python
 
 - Vamos escrever nosso primeiro arquivo Python, chamado helloworld.py, que pode ser feito em qualquer editor de texto.
 
-      Eu irei usar o Visual Code
+      Eu irei usar o Visual Studio Code.
 
   [https://code.visualstudio.com](https://code.visualstudio.com/)
 
-- Se você não quiser instalar pode seguir com o Terminal ou outro software.
+- Se você não quiser instalar, pode seguir com o Terminal ou outro software.
 
-      CTRL + R escreva na caixa " cmd " e de ENTER.
+      Pressione CTRL + R, escreva na caixa "cmd" e pressione ENTER.
 
 - Você está dentro do Terminal, acesse o Python dentro do Terminal digitando
   
-      " py " e de ENTER no teclado.
+      "py" e pressione ENTER no teclado.
 
 - Agora você está utilizando o Terminal para executar instruções em Python.
 
-- Tudo que digitar dentro deste Terminal Python será interpretado como se fosse um arquivo de extensão " .py ".
+- Tudo que digitar dentro deste Terminal Python será interpretado como se fosse um arquivo de extensão ".py".
 
 <br>
 
@@ -146,7 +146,7 @@ https://www.w3schools.com/python
 
 <img width="500" src="https://github.com/brunomunarolo/Introducao-Python/assets/113137632/191715f9-6c63-4eaa-bbdf-8d113933e5dc">
 
-- A saída deve ler:
+- A saída deve ser:
 
       Hello, World!
 
