@@ -290,6 +290,17 @@ Cometários em Python:
 
 <br>
 
+- Os comentários podem ser colocados no final de uma linha, e o Python ignorará o resto da linha:
+
+### Exemplo
+
+	print("Hello, World!") #This is a comment
+
+- Um comentário não precisa ser texto que explique o código, ele também pode ser usado para impedir que o Python execute código:
+
+		#print("Hello, World!")
+		print("Cheers, Mate!")
+
 
 
 
