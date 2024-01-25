@@ -99,7 +99,12 @@ De:
 
 <br>
 
-6 - Após fechar o instalador
+6 - Após fechar o instalador 
+
+  Pressione CTRL + R para abrir seu Terminal do Windows
+  
+
+  
   
 -  Aperte Ctrl + R e escreva dentro do terminal " python ".
   
