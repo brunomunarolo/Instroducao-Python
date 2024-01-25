@@ -235,9 +235,9 @@ Erro de sintaxe:
 
 - No Python, as variáveis são criadas quando você atribui um valor a ela:
 
-	Exemplo
-	<br>
-	Variáveis em Python
+## Exemplo
+
+Variáveis em Python:
 	
 	x = 5
 	y = "Hello, World!"
