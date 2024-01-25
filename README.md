@@ -129,11 +129,11 @@ De:
 
       CTRL + R escreva na caixa " cmd " e de ENTER.
 
-- Você está dentro do Terminal, acesse o python dentro do Terminal digitando
+- Você está dentro do Terminal, acesse o Python dentro do Terminal digitando
   
-      " py " e de Enter no teclado.
+      " py " e de ENTER no teclado.
 
-- Agora você está utilizando o terminal para executar instruções em Python.
+- Agora você está utilizando o Terminal para executar instruções em Python.
 
 - Tudo que digitar dentro deste Terminal Python será interpretado como se fosse um arquivo de extensão " .py ".
 
