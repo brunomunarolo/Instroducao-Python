@@ -105,3 +105,8 @@ De:
   
        Lhe mostrará se está instalado e qual versão.
 
+
+-----------------------------------------------------------
+
+
+# Agora um exercício :sunglasses:
