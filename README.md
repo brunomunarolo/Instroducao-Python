@@ -204,35 +204,31 @@ De:
 
 - Python lhe dará um erro se você pular o recuo:
 
-      Exemplo
-  
-<br>
+## Exemplo
  
-    Erro de sintaxe:
-<br>	
+Erro de sintaxe:
 
     if 5 > 2:
-        print("Five is geater than two!")
+    print("Five is geater than two!")
 
 - O número de espaços depende de você como programador, o uso mais comum é quatro, mas tem ser pelo menos um.
 
-      Exemplo
-<br>
+## Exemplo
 
     if 5 > 2:
-	 print("Five is greater than two!")
-	if 5 > 2:
-		print("Five is  greater than two!")
+     print("Five is greater than two!")
+    if 5 > 2:
+        print("Five is  greater than two!")
 
 - Você tem que usar o mesmo número de espaços no mesmo bloco de código, caso contrário, o Python lhe dará um erro:
 
-	Exemplo
-	<br>
-	Erro de sintaxe:
+## Exemplo
 	
-	if 5 > 2:
-	 print("Five is greater than two!")
-		print("Five is greater than two!")
+Erro de sintaxe:
+	
+    if 5 > 2:
+    print("Five is greater than two!")
+        print("Five is greater than two!")
 
 
 # Variáveis do Python
