@@ -94,4 +94,4 @@ https://www.w3schools.com/python
        Lhe mostrará se está instalado e qual versão.
 
 
-       https://www.python.org/downloads/windows/
+[Site oficial - Python](https://www.python.org/downloads/windows/)
