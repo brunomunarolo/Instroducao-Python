@@ -64,7 +64,7 @@ https://www.w3schools.com/python
   
 -  Desça até achar
 
--  Python 3.7.8 - June 27, 2020
+       Python 3.7.8 - June 27, 2020
 
        Note that Python 3.7.8 cannot be used on Windows XP or earlier.
 
