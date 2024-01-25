@@ -14,7 +14,7 @@
 
 -  Python é uma linguagem de programação popular. Foi criado por Guido van Rossum, e lançado em 1991.
 
-##É utilizado para:
+## É utilizado para:
 
 -  desenvolvimento web (server-side),
 -  desenvolvimento de software,
