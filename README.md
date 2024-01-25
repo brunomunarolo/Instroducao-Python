@@ -116,7 +116,7 @@ De:
 
 - Para facilitar ative a exibição do nome de extensão do arquivo.
 
-<img width="300" src="https://github.com/brunomunarolo/Introducao-Python/assets/113137632/60d829db-f2e5-43bb-a6e6-93e6e057ea0e">
+<img width="500" src="https://github.com/brunomunarolo/Introducao-Python/assets/113137632/60d829db-f2e5-43bb-a6e6-93e6e057ea0e">
 
 
 --------------------------------------------
