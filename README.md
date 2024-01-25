@@ -138,6 +138,7 @@ De:
 <br>
 
 
+
 <img width="300" src="https://github.com/brunomunarolo/Introducao-Python/assets/113137632/6effe630-783b-4fc3-ac1c-cf7b0d77d7f2">
 
 
