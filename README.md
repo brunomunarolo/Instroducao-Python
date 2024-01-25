@@ -47,5 +47,5 @@ Python usa novas linhas para completar um comando, ao contrário de outras lingu
 Python depende de recuo, usando espaço em branco, para definir o escopo; como o escopo de loops, funções e classes. Outras linguagens de programação geralmente usam colchetes para essa finalidade.
 
 ----------------------------------------------
-
-<a https://www.w3schools.com/python/default.asp />
+De:
+https://www.w3schools.com/python/default.asp
