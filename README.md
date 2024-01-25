@@ -185,6 +185,7 @@ De:
 
       exit()
 
+<br>
 
 
 --------------------------------------------
@@ -332,7 +333,12 @@ Cometários em Python:
 
 - Contanto que a cadeia de caracteres não seja atribuída a uma variável, o Python lerá o código, mas depois o ignorará, e você fez um comentário de várias linhas.
 
+<br>
+
 --------------------------------------------
 
 <br>
+
+Variáveis Python
+
 
