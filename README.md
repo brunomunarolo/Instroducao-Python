@@ -271,9 +271,9 @@ Variáveis em Python:
 
 - Os comentários começam com um #, e o Python renderizará o restante da linha como um comentário:
 
-	Exemplo
-	<br>
-	Cometários em Python:
+###Exemplo
+
+Cometários em Python:
 	
 	#This is a comment.
 	print("Hello, Worlds!")
