@@ -58,9 +58,12 @@ https://www.w3schools.com/python
 
 1 - Digite no google > python
 
+
 2 - [Site oficial - Python.org](https://www.python.org/downloads/windows/)
 
+
 3 - Downloads > Windows
+
 
 4 - Escolher a versão
   
@@ -71,6 +74,7 @@ https://www.w3schools.com/python
        Note that Python 3.7.8 cannot be used on Windows XP or earlier.
 
       Para instalar click em > [Download Windows x86-64 executable installer](https://www.python.org/ftp/python/3.7.8/python-3.7.8-amd64.exe)
+
 
 5 - Instalação
 
@@ -87,6 +91,7 @@ https://www.w3schools.com/python
   Ative todas opções que estiverem desativadas.
 
 - Instale e pode dar close na instalação finalizada.
+
 
 
 6 - Após fechar o instalador
