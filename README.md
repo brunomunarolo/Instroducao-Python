@@ -59,12 +59,15 @@ https://www.w3schools.com/python
 1 - Digite no google > python
 
 <br>
+
 2 - [Site oficial - Python.org](https://www.python.org/downloads/windows/)
 
 <br>
+
 3 - Downloads > Windows
 
 <br>
+
 4 - Escolher a versão
   
 -  Desça até achar
@@ -76,6 +79,7 @@ https://www.w3schools.com/python
       Para instalar click em > [Download Windows x86-64 executable installer](https://www.python.org/ftp/python/3.7.8/python-3.7.8-amd64.exe)
 
 <br>
+
 5 - Instalação
 
 - Ao iniciar a instalação do Python 3.7.8 Selecione a opção embaixo "Add Python 3.7 to PATH"
@@ -93,6 +97,7 @@ https://www.w3schools.com/python
 - Instale e pode dar close na instalação finalizada.
 
 <br>
+
 6 - Após fechar o instalador
   
 -  Aperte Ctrl + R e escreva dentro do terminal " python ".
