@@ -58,7 +58,7 @@ https://www.w3schools.com/python
 
 1 - Digite no google > python
 
-
+<br>
 2 - [Site oficial - Python.org](https://www.python.org/downloads/windows/)
 
 <br>
