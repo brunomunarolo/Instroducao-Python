@@ -240,6 +240,8 @@ Erro de sintaxe:
 
 <br>
 
+<br>
+
 ## Variáveis do Python
 
 - No Python, as variáveis são criadas quando você atribui um valor a ela:
@@ -262,6 +264,8 @@ Variáveis em Python:
 [Variáveis do Python](https://www.w3schools.com/python/python_variables.asp)
 
 <br>
+
+<br> 
 
 ## Comentários
 
