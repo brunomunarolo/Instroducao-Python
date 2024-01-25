@@ -48,4 +48,4 @@ Python depende de recuo, usando espaço em branco, para definir o escopo; como o
 
 ----------------------------------------------
 De:
-https://www.w3schools.com/python/default.asp
+https://www.w3schools.com/python
