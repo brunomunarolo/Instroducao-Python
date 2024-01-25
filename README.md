@@ -294,12 +294,12 @@ Cometários em Python:
 
 ### Exemplo
 
-	print("Hello, World!") #This is a comment
+    print("Hello, World!") #This is a comment
 
 - Um comentário não precisa ser texto que explique o código, ele também pode ser usado para impedir que o Python execute código:
 
-		#print("Hello, World!")
-		print("Cheers, Mate!")
+      #print("Hello, World!")
+      print("Cheers, Mate!")
 
 
 
