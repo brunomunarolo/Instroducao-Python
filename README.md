@@ -48,12 +48,12 @@
 -  Python usa novas linhas para completar um comando, ao contrário de outras linguagens de programação que geralmente usam ponto-e-vírgula ou parênteses.
 -  Python depende de recuo, usando espaço em branco, para definir o escopo; como o escopo de loops, funções e classes. Outras linguagens de programação geralmente usam colchetes para essa finalidade.
 
-----------------------------------------------
+--------------------------------------------
 De:
 
     https://www.w3schools.com/python
 
-----------------------------------------------
+--------------------------------------------
 
 # Instalando o Python
 
@@ -106,7 +106,17 @@ De:
        Lhe mostrará se está instalado e qual versão.
 
 
------------------------------------------------------------
+--------------------------------------------
+
+# Agora é hora do exercício
+
+## Guia de início rápido do Python
+
+- Python é uma linguagem de programação interpretada, isso significa que como desenvolvedor você escreve arquivos Python (.py) em um editor de texto e, em seguida, coloca esses arquivos no interpretador python para serem executados.
+
+- A maneira de executar um arquivo python é como esta na linha de comando:
+
+--------------------------------------------
 
 
 # Agora um exercício :sunglasses:
