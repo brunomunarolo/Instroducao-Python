@@ -131,13 +131,11 @@ De:
 <img width="90" src="https://github.com/brunomunarolo/Introducao-Python/assets/113137632/8db7dac9-2410-44be-bcbb-c04e5a50467d">
 
 
-- Dentro do seu arquivo escreva:
+- Dentro do seu arquivo escreva e execute:
 
       print("Hello, World!")
 
 <br>
-
-
 
 <img width="300" src="https://github.com/brunomunarolo/Introducao-Python/assets/113137632/40b05be6-553d-48d0-acf3-b182e6e2e820">
 
