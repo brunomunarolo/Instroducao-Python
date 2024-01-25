@@ -280,6 +280,15 @@ Cometários em Python:
 
 <img src="https://github.com/brunomunarolo/Introducao-Python/assets/113137632/1ee78e9b-c639-4f5f-90b1-27316b6eb389">
 
+<br>
+
+- Comentários podem ser usados para explicar o código Python.
+
+- Os comentários podem ser usados para tornar o código mais legível.
+
+- Os comentários podem ser usados para impedir a execução ao testar o código.
+
+<br>
 
 
 
