@@ -136,7 +136,7 @@ De:
 <br>
 
 
-<img width="250" src="https://github.com/brunomunarolo/Python/assets/113137632/05aae48b-b99b-4e16-98bb-0236a67c56bb">
+<img align="center" width="350" src="https://github.com/brunomunarolo/Python/assets/113137632/05aae48b-b99b-4e16-98bb-0236a67c56bb">
 
 
 
