@@ -278,7 +278,7 @@ Cometários em Python:
 	#This is a comment.
 	print("Hello, Worlds!")
 
-
+<img src="https://github.com/brunomunarolo/Introducao-Python/assets/113137632/1ee78e9b-c639-4f5f-90b1-27316b6eb389">
 
 
 
