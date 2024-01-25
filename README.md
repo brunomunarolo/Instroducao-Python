@@ -200,7 +200,7 @@ https://www.w3schools.com/python
 
 - Recuo refere-se aos espaços no início de uma linha de código.
 
-- Onde em outras linguagens de programação o recuo no código é para legibilidade apenas, o recuo em Python é muito importante.
+- Onde em outras linguagens de programação o recuo no código é para legibilidade apenas, o recuo em python é muito importante.
 
 - Python usa recuo para indicar um bloco de código.
 
@@ -233,7 +233,7 @@ Erro de sintaxe:
 
 <br>
 
-- Você tem que usar o mesmo número de espaços no mesmo bloco de código, caso contrário, o Python lhe dará um erro:
+- Você tem que usar o mesmo número de espaços no mesmo bloco de código, caso contrário, o python lhe dará um erro:
 
 ### Exemplo
 	
@@ -249,7 +249,7 @@ Erro de sintaxe:
 
 ## Variáveis do Python
 
-- No Python, as variáveis são criadas quando você atribui um valor a ela:
+- No python, as variáveis são criadas quando você atribui um valor a ela:
 
 ### Exemplo
 
@@ -374,6 +374,10 @@ Cometários em Python:
 
 ### Exemplo
 
-	x = str(3)    # x will be '3'
+ 	x = str(3)    # x will be '3'
 	y = int(3)    # y will be 3
 	z = float(3)  # z will be 3.0
+	
+	print(x)
+	print(y)
+	print(z)
