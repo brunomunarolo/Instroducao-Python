@@ -61,10 +61,10 @@ https://www.w3schools.com/python
 
 2 - [Site oficial - Python.org](https://www.python.org/downloads/windows/)
 
-
+<br>
 3 - Downloads > Windows
 
-
+<br>
 4 - Escolher a versão
   
 -  Desça até achar
