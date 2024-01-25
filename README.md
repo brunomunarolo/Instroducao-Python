@@ -62,9 +62,9 @@ https://www.w3schools.com/python
 
 4 - Escolher a versão
   
-  Desça até achar
+-  Desça até achar
 
--  Note that Python 3.7.8 cannot be used on Windows XP or earlier.
+       Note that Python 3.7.8 cannot be used on Windows XP or earlier
 
        Download Windows x86-64 executable installer.
 
