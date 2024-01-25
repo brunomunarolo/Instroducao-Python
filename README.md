@@ -260,7 +260,7 @@ Variáveis em Python:
 
 <br>
 
-# Comentários
+## Comentários
 
 - Python tem capacidade de comentários para fins de documentação no código.
 
