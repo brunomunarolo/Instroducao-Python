@@ -92,3 +92,6 @@ https://www.w3schools.com/python
 -  Aperte Ctrl + R e escreva dentro do terminal " python ".
   
        Lhe mostrará se está instalado e qual versão.
+
+
+       https://www.python.org/downloads/windows/
