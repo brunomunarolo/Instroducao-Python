@@ -60,8 +60,7 @@ https://www.w3schools.com/python
 
 3 - Downloads > Windows
 
-4 - Precisamos escolher a versão
-  
+4 - Escolher a versão
   Desça até achar > Download Windows x86-64 executable installer
 
 5 - #Instalação
