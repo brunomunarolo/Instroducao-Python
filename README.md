@@ -2,7 +2,9 @@
  
 - Python é uma linguagem de programação popular.
 
--  Python pode ser usado em um servidor para criar aplicações web.
+- Python pode ser usado em um servidor para criar aplicações web.
+
+- Lembre de abrir um editor de códigos para seguir junto ao tutorial.   
 
 --------------------------------------------
     Abaixo à instrução para você instalar no Windows
