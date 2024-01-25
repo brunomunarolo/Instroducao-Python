@@ -7,7 +7,7 @@
 - Lembre-se de abrir um editor de códigos para seguir junto ao tutorial.
 
 --------------------------------------------
-Abaixo, a instrução para você instalar no Windows
+### Abaixo, a instrução para você instalar no Windows
 --------------------------------------------
 
 # Introdução ao Python
