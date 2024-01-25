@@ -185,7 +185,9 @@ De:
 
 
 --------------------------------------------
+
 <br>
+
 # Sintaxe do Python
 
 - Recuo refere-se aos espaços no início de uma linha de código.
