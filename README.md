@@ -49,3 +49,34 @@ Python depende de recuo, usando espaço em branco, para definir o escopo; como o
 ----------------------------------------------
 De:
 https://www.w3schools.com/python
+
+----------------------------------------------
+
+# Instalando o Python
+
+1 - Digite no google > python
+
+2 - Acessar Python.org / site oficial
+
+3 - Downloads > Windows
+
+4 - Precisamos escolher a versão
+	Desça até achar > <cite> Download Windows x86-64 executable installer </cite>
+
+5 - #Instalação
+
+- Selecione a opção embaixo "Add Python 3.7 to PATH"
+  Se não quando for exercutar no prompt de comando terá problema de conexão.
+
+- Click em Customizar a instalação
+  Aqui você da próximo em Recurso opcional que já estará tudo selecionado automaticamente
+
+- Em Opções avançadas
+  Ative todas opções que estiverem desativadas
+
+- Instale e pode dar close na instalação finalizada
+
+
+6 - Após fechar o instalador
+  Aperte Ctrl + R e escreva dentro do terminal " python "
+  Lhe mostrará se está instalado e qual versão.
