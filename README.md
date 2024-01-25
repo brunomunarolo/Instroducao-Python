@@ -289,8 +289,6 @@ Cometários em Python:
 
 - Os comentários podem ser usados para impedir a execução ao testar o código.
 
-<br>
-
 - Os comentários podem ser colocados no final de uma linha, e o Python ignorará o resto da linha:
 
 ### Exemplo
