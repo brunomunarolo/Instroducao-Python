@@ -64,7 +64,9 @@ https://www.w3schools.com/python
   
 -  Desça até achar
 
-       Note that Python 3.7.8 cannot be used on Windows XP or earlier
+-  Python 3.7.8 - June 27, 2020
+
+       Note that Python 3.7.8 cannot be used on Windows XP or earlier.
 
        Download Windows x86-64 executable installer.
 
