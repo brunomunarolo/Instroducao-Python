@@ -126,7 +126,7 @@ De:
 
 - Ficaria assim:
 
-<img width="60" src="https://github.com/brunomunarolo/Introducao-Python/assets/113137632/8db7dac9-2410-44be-bcbb-c04e5a50467d">
+<img width="90" src="https://github.com/brunomunarolo/Introducao-Python/assets/113137632/8db7dac9-2410-44be-bcbb-c04e5a50467d">
 
 
 - Dentro do seu arquivo escreva:
