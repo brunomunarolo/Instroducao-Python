@@ -125,6 +125,11 @@ De:
 
   [https://code.visualstudio.com](https://code.visualstudio.com/)
 
+- Se você não quiser instalar pode seguir com o Terminal ou outro software.
+
+       CTRL + R - na caixa coloque " cmd " e de ENTER - Acesse o Python digitando " py " de enter que estará já na execução do Python.
+  		Tudo que digitar dentro deste Terminal Python será interpretado como se fosse um arquivo de extensão " .py ".
+
 - Para facilitar ative a exibição do nome de extensão do arquivo.
 
 <img width="500" src="https://github.com/brunomunarolo/Introducao-Python/assets/113137632/60d829db-f2e5-43bb-a6e6-93e6e057ea0e">
