@@ -83,6 +83,7 @@ https://www.w3schools.com/python
 
 
 6 - Após fechar o instalador
-  Aperte Ctrl + R e escreva dentro do terminal " python ".
   
-    Lhe mostrará se está instalado e qual versão.
+-  Aperte Ctrl + R e escreva dentro do terminal " python ".
+  
+       Lhe mostrará se está instalado e qual versão.
