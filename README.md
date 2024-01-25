@@ -85,7 +85,7 @@ De:
 
 - Ao iniciar a instalação do Python 3.7.8 Selecione a opção embaixo "Add Python 3.7 to PATH"
 
-  Se não quando for exercutar no prompt de comando terá problema de conexão com seus arquivos.
+  Se não quando for exercutar seu .py terá problema de conexão com seus arquivos.
 
 - Click em Customizar a instalação
 
@@ -112,11 +112,10 @@ De:
 
 ## Guia de início rápido do Python
 
-- Python é uma linguagem de programação interpretada, isso significa que como desenvolvedor você escreve arquivos Python (.py) em um editor de texto e, em seguida, coloca esses arquivos no interpretador python para serem executados.
+- Vamos escrever nosso primeiro arquivo Python, chamado helloworld.py, que pode ser feito em qualquer editor de texto.
 
-- A maneira de executar um arquivo python é como esta na linha de comando:
+- Para facilitar ative a exibição do nome de extensão do arquivo.
+
+
 
 --------------------------------------------
-
-
-# Agora um exercício :sunglasses:
