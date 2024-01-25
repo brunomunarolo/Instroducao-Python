@@ -68,7 +68,7 @@ https://www.w3schools.com/python
 
 <br>
 
-4 - Escolher a versão
+4 - Recomendação de versão 3.7.8
   
 -  Desça até achar
 
