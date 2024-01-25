@@ -100,13 +100,8 @@ De:
 <br>
 
 6 - Após fechar o instalador 
-
-  Pressione CTRL + R para abrir seu Terminal do Windows
   
-
-  
-  
--  Aperte Ctrl + R e escreva dentro do terminal " python ".
+- Aperte Ctrl + R e escreva dentro do terminal " python ".
   
        Lhe mostrará se está instalado e qual versão.
 
