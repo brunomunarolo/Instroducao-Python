@@ -246,8 +246,6 @@ Erro de sintaxe:
 
 - No Python, as variáveis são criadas quando você atribui um valor a ela:
 
-<br>
-
 ### Exemplo
 
 Variáveis em Python:
