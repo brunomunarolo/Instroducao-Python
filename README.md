@@ -271,7 +271,7 @@ Variáveis em Python:
 
 - Os comentários começam com um #, e o Python renderizará o restante da linha como um comentário:
 
-###Exemplo
+### Exemplo
 
 Cometários em Python:
 	
