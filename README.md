@@ -196,26 +196,31 @@ De:
 
 - Python usa recuo para indicar um bloco de código.
 
-	Exemplo:
-	<br>	
-	if 5 > 2:
-	 print("Five is greater than two!")
+      Exemplo:
+  <br>	
+	 
+      if 5 > 2:
+       print("Five is greater than two!")
 
 
 - Python lhe dará um erro se você pular o recuo:
 
-	Exemplo
-	
-	Erro de sintaxe:
-	<br>	
-	if 5 > 2:
-	print("Five is geater than two!")
+      Exemplo
+  
+<br>
+ 
+    Erro de sintaxe:
+<br>	
+
+    if 5 > 2:
+        print("Five is geater than two!")
 
 - O número de espaços depende de você como programador, o uso mais comum é quatro, mas tem ser pelo menos um.
 
-	Exemplo
-	<br>
-	if 5 > 2:
+      Exemplo
+<br>
+
+    if 5 > 2:
 	 print("Five is greater than two!")
 	if 5 > 2:
 		print("Five is  greater than two!")
