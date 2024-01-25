@@ -339,6 +339,39 @@ Cometários em Python:
 
 <br>
 
-Variáveis Python
+# Variáveis Python
 
+- Variáveis são contêineres para armazenar valores de dados.
 
+- Criando variáveis
+- Python não tem nenhum comando para declarar uma variável.
+
+- Uma variável é criada no momento em que você atribui um valor a ela pela primeira vez.
+
+### Exemplo
+
+	x = 5
+	y = "John"
+	print(x)
+	print(y)
+
+<br>
+
+- As variáveis não precisam ser declaradas com nenhum tipo específico e podem até mudar de tipo depois de definidas.
+
+### Exemplo
+	x = 4       # x is of type int
+	x = "Sally" # x is now of type str
+	print(x)
+
+<br>
+
+## Fundição
+
+- Se você quiser especificar o tipo de dados de uma variável, isso pode ser feito com a transmissão.
+
+### Exemplo
+
+	x = str(3)    # x will be '3'
+	y = int(3)    # y will be 3
+	z = float(3)  # z will be 3.0
