@@ -62,7 +62,10 @@ https://www.w3schools.com/python
 
 4 - Escolher a versão
   
-  Desça até achar > Download Windows x86-64 executable installer.
+  Desça até achar
+
+-  Note that Python 3.7.8 cannot be used on Windows XP or earlier.
+-     Download Windows x86-64 executable installer.
 
 5 - Instalação
 
