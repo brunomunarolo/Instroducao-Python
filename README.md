@@ -64,9 +64,9 @@ https://www.w3schools.com/python
   
   Desça até achar > Download Windows x86-64 executable installer
 
-5 - #Instalação
+5 - Instalação
 
-- Selecione a opção embaixo "Add Python 3.7 to PATH"
+- Ao iniciar a instalação do Python 3.7.8 Selecione a opção embaixo "Add Python 3.7 to PATH"
   Se não quando for exercutar no prompt de comando terá problema de conexão.
 
 - Click em Customizar a instalação
