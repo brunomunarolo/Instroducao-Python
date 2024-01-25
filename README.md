@@ -196,7 +196,7 @@ De:
 
 - Python usa recuo para indicar um bloco de código.
 
-### Exemplo:
+### Exemplo
   	 
       if 5 > 2:
        print("Five is greater than two!")
@@ -216,16 +216,18 @@ Erro de sintaxe:
 
 - O número de espaços depende de você como programador, o uso mais comum é quatro, mas tem ser pelo menos um.
 
-## Exemplo
+### Exemplo
 
     if 5 > 2:
      print("Five is greater than two!")
     if 5 > 2:
         print("Five is  greater than two!")
 
+<br>
+
 - Você tem que usar o mesmo número de espaços no mesmo bloco de código, caso contrário, o Python lhe dará um erro:
 
-## Exemplo
+### Exemplo
 	
 Erro de sintaxe:
 	
@@ -233,18 +235,22 @@ Erro de sintaxe:
     print("Five is greater than two!")
         print("Five is greater than two!")
 
+<br>
 
-# Variáveis do Python
+## Variáveis do Python
 
 - No Python, as variáveis são criadas quando você atribui um valor a ela:
 
-## Exemplo
+<br>
+
+### Exemplo
 
 Variáveis em Python:
 	
 	x = 5
 	y = "Hello, World!"
 
+<br>
 
 - Python não tem nenhum comando para declarar uma variável.
 
