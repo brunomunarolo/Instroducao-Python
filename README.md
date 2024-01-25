@@ -114,6 +114,10 @@ De:
 
 - Vamos escrever nosso primeiro arquivo Python, chamado helloworld.py, que pode ser feito em qualquer editor de texto.
 
+      Eu irei usar o Visual Code
+
+- [Só dar next next que vai instalar rápidamente sem complicações.](https://code.visualstudio.com/)
+
 - Para facilitar ative a exibição do nome de extensão do arquivo.
 
 <img width="500" src="https://github.com/brunomunarolo/Introducao-Python/assets/113137632/60d829db-f2e5-43bb-a6e6-93e6e057ea0e">
@@ -123,6 +127,16 @@ De:
 - Ficaria assim:
 
 <img width="200" src="https://github.com/brunomunarolo/Introducao-Python/assets/113137632/8db7dac9-2410-44be-bcbb-c04e5a50467d">
+
+
+- Vamos criar
+
+
+
+
+
+
+
 
 
 
