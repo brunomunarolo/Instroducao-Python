@@ -65,9 +65,7 @@ https://www.w3schools.com/python
   Desça até achar
 
 -  Note that Python 3.7.8 cannot be used on Windows XP or earlier.
-<a src="https://www.python.org/ftp/python/3.7.8/python-3.7.8-amd64.exe"> 
--     Download Windows x86-64 executable installer.
-</a>
+<a src="https://www.python.org/ftp/python/3.7.8/python-3.7.8-amd64.exe">-Download Windows x86-64 executable installer.</a>
 
 5 - Instalação
 
