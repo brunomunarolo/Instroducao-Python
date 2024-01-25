@@ -152,15 +152,15 @@ https://www.w3schools.com/python
 
 ## Parabéns, você escreveu e executou seu primeiro programa Python.
 
---------------------------------------------
-
 <br>
+
+--------------------------------------------
 
 <br>
 
 # Linha de comando do Python
 
-- Para testar uma pequena quantidade de código em python, às vezes é mais rápido e fácil não escrever o código em um arquivo. Isso é possível porque o Python pode ser executado como uma linha de comando em si.
+- Para testar uma pequena quantidade de código em Python, às vezes é mais rápido e fácil não escrever o código em um arquivo. Isso é possível porque o Python pode ser executado como uma linha de comando em si.
 
 - Digite o seguinte na linha de comando do Windows, Mac ou Linux:
 
