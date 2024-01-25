@@ -56,7 +56,7 @@ https://www.w3schools.com/python
 
 1 - Digite no google > python
 
-2 - Acessar Python.org / site oficial
+2 - [Site oficial - Python.org](https://www.python.org/downloads/windows/)
 
 3 - Downloads > Windows
 
@@ -93,5 +93,3 @@ https://www.w3schools.com/python
   
        Lhe mostrará se está instalado e qual versão.
 
-
-[Site oficial - Python](https://www.python.org/downloads/windows/)
