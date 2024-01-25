@@ -127,8 +127,9 @@ De:
 
 - Se você não quiser instalar pode seguir com o Terminal ou outro software.
 
-       CTRL + R - na caixa coloque " cmd " e de ENTER - Acesse o Python digitando " py " de enter que estará já na execução do Python.
-  		Tudo que digitar dentro deste Terminal Python será interpretado como se fosse um arquivo de extensão " .py ".
+      CTRL + R - na caixa coloque " cmd " e de ENTER
+      Acesse o Python digitando " py " de enter que estará já na execução do Python.
+      Tudo que digitar dentro deste Terminal Python será interpretado como se fosse um arquivo de extensão " .py ".
 
 - Para facilitar ative a exibição do nome de extensão do arquivo.
 
