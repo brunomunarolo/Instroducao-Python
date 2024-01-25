@@ -382,3 +382,23 @@ Cometários em Python:
 	print(x)
 	print(y)
 	print(z)
+
+ <br> 
+
+## Obtenha o tipo
+
+- Você pode obter o tipo de dados de uma variável com a função.type()
+
+### Exemplo
+
+	x = 5
+	y = "John"
+	print(type(x))
+	print(type(y))
+
+Você aprenderá mais sobre [tipos de dados](https://www.w3schools.com/python/python_datatypes.asp) e [transmissão](https://www.w3schools.com/python/python_casting.asp) mais adiante neste tutorial.
+
+ <br>
+
+ 
+
