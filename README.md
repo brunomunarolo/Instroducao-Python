@@ -5,6 +5,8 @@ Python é uma linguagem de programação popular.
 Python pode ser usado em um servidor para criar aplicações web.
 
 --------------------------------------------
+    Abaixo à instrução para você instalar no Windows
+--------------------------------------------
 
 # Introdução ao Python
 
