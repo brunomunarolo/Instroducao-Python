@@ -105,11 +105,13 @@ De:
   
        Lhe mostrará se está instalado e qual versão.
 
-<br>
+<img src="https://github.com/brunomunarolo/Introducao-Python/assets/113137632/34ed19dd-fcfd-463c-9e93-8c1777688da7">
 
 <br>
 
 --------------------------------------------
+
+<br>
 
 # Agora é hora do exercício
 
