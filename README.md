@@ -116,7 +116,7 @@ De:
 
       Eu irei usar o Visual Code
 
-[Code.VisualStudio.com](https://code.visualstudio.com/)
+  [https://code.visualstudio.com](https://code.visualstudio.com/)
 
 - Para facilitar ative a exibição do nome de extensão do arquivo.
 
