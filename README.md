@@ -183,7 +183,89 @@ De:
       exit()
 
 
-  
+
+--------------------------------------------
+<br>
+# Sintaxe do Python
+
+- Recuo refere-se aos espaços no início de uma linha de código.
+
+- Onde em outras linguagens de programação o recuo no código é para legibilidade apenas, o recuo em Python é muito importante.
+
+- Python usa recuo para indicar um bloco de código.
+
+	Exemplo:
+	<br>	
+	if 5 > 2:
+	 print("Five is greater than two!")
+
+
+- Python lhe dará um erro se você pular o recuo:
+
+	Exemplo
+	
+	Erro de sintaxe:
+	<br>	
+	if 5 > 2:
+	print("Five is geater than two!")
+
+- O número de espaços depende de você como programador, o uso mais comum é quatro, mas tem ser pelo menos um.
+
+	Exemplo
+	<br>
+	if 5 > 2:
+	 print("Five is greater than two!")
+	if 5 > 2:
+		print("Five is  greater than two!")
+
+- Você tem que usar o mesmo número de espaços no mesmo bloco de código, caso contrário, o Python lhe dará um erro:
+
+	Exemplo
+	<br>
+	Erro de sintaxe:
+	
+	if 5 > 2:
+	 print("Five is greater than two!")
+		print("Five is greater than two!")
+
+
+# Variáveis do Python
+
+- No Python, as variáveis são criadas quando você atribui um valor a ela:
+
+	Exemplo
+	<br>
+	Variáveis em Python
+	
+	x = 5
+	y = "Hello, World!"
+
+
+- Python não tem nenhum comando para declarar uma variável.
+
+- Você aprenderá mais sobre variáveis no capítulo Variáveis do Python.
+
+[Variáveis do Python](https://www.w3schools.com/python/python_variables.asp)
+
+<br>
+
+# Comentários
+
+- Python tem capacidade de comentários para fins de documentação no código.
+
+- Os comentários começam com um #, e o Python renderizará o restante da linha como um comentário:
+
+	Exemplo
+	<br>
+	Cometários em Python:
+	
+	#This is a comment.
+	print("Hello, Worlds!")
+
+
+
+
+
 
 
   
