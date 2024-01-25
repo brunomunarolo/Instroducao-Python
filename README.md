@@ -321,8 +321,6 @@ Cometários em Python:
 
 - Como o Python ignorará literais de cadeia de caracteres que não são atribuídos a uma variável, você pode adicionar uma cadeia de caracteres de várias linhas (aspas triplas) em seu código e colocar seu comentário dentro dela:
 
-<br>
-
 ### Exemplo
 
 	"""
