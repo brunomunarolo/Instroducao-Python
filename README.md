@@ -139,7 +139,7 @@ De:
 
 
 
-<img width="300" src="https://github.com/brunomunarolo/Introducao-Python/assets/113137632/6effe630-783b-4fc3-ac1c-cf7b0d77d7f2">
+<img width="300" src="https://github.com/brunomunarolo/Introducao-Python/assets/113137632/40b05be6-553d-48d0-acf3-b182e6e2e820">
 
 
 
