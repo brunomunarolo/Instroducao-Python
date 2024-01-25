@@ -105,6 +105,9 @@ De:
   
        Lhe mostrará se está instalado e qual versão.
 
+<br>
+
+<br>
 
 --------------------------------------------
 
