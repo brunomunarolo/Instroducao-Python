@@ -116,7 +116,7 @@ De:
 
       Eu irei usar o Visual Code
 
-- [Só dar next next que vai instalar rápidamente sem complicações.](https://code.visualstudio.com/)
+[Code.VisualStudio.com](https://code.visualstudio.com/)
 
 - Para facilitar ative a exibição do nome de extensão do arquivo.
 
