@@ -345,7 +345,8 @@ Cometários em Python:
 
 - Variáveis são contêineres para armazenar valores de dados.
 
-- Criando variáveis
+## Criando variáveis
+
 - Python não tem nenhum comando para declarar uma variável.
 
 - Uma variável é criada no momento em que você atribui um valor a ela pela primeira vez.
