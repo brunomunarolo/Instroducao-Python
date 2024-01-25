@@ -145,9 +145,47 @@ De:
 
 ## Parabéns, você escreveu e executou seu primeiro programa Python.
 
+--------------------------------------------
+
 <br>
 
-#
+<br>
 
+# Linha de comando do Python
+
+- Para testar uma pequena quantidade de código em python, às vezes é mais rápido e fácil não escrever o código em um arquivo. Isso é possível porque o Python pode ser executado como uma linha de comando em si.
+
+- Digite o seguinte na linha de comando do Windows, Mac ou Linux:
+
+      C:\Users\Your Name>python
+
+- Ou, se o comando "python" não funcionou, você pode tentar "py":
+
+      C:\Users\Your Name>py
+
+- A partir daí, você pode escrever qualquer python, incluindo nosso exemplo hello world do início do tutorial:
+
+      C:\Users\Your Name>python
+      Python 3.6.4 (v3.6.4:d48eceb, Dec 19 2017, 06:04:45) [MSC v.1900 32 bit (Intel)] on win32
+      Type "help", "copyright", "credits" or "license" for more information.
+      >>> print("Hello, World!")
+
+- Que escreverá "Olá, Mundo!" na linha de comando:
+
+      C:\Users\Your Name>python
+      Python 3.6.4 (v3.6.4:d48eceb, Dec 19 2017, 06:04:45) [MSC v.1900 32 bit (Intel)] on win32
+      Type "help", "copyright", "credits" or "license" for more information.
+      >>> print("Hello, World!")
+      Hello, World!
+
+- Sempre que você terminar na linha de comando python, você pode simplesmente digitar o seguinte para sair da interface da linha de comando python:
+
+      exit()
+
+
+  
+
+
+  
 
 --------------------------------------------
