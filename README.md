@@ -301,9 +301,40 @@ Cometários em Python:
       #print("Hello, World!")
       print("Cheers, Mate!")
 
+<br>
 
-
-
+## Comentários de várias linhas
   
+- Python realmente não tem uma sintaxe para comentários de várias linhas.
+
+- Para adicionar um comentário de várias linhas, você pode inserir um para cada linha:#
+
+### Exemplo
+
+    #This is a comment
+    #written in
+    #more than just one line
+    print("Hello, World!")
+
+
+- Ou, não exatamente como pretendido, você pode usar uma cadeia de caracteres de várias linhas.
+
+- Como o Python ignorará literais de cadeia de caracteres que não são atribuídos a uma variável, você pode adicionar uma cadeia de caracteres de várias linhas (aspas triplas) em seu código e colocar seu comentário dentro dela:
+
+<br>
+
+### Exemplo
+
+	"""
+	This is a comment
+	written in
+	more than just one line
+	"""
+	print("Hello, World!")
+
+- Contanto que a cadeia de caracteres não seja atribuída a uma variável, o Python lerá o código, mas depois o ignorará, e você fez um comentário de várias linhas.
 
 --------------------------------------------
+
+<br>
+
