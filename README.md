@@ -196,9 +196,7 @@ De:
 
 - Python usa recuo para indicar um bloco de código.
 
-      Exemplo:
-  <br>	
-	 
+      Exemplo:	 
       if 5 > 2:
        print("Five is greater than two!")
 
