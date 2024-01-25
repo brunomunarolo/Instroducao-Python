@@ -71,12 +71,15 @@ https://www.w3schools.com/python
 5 - Instalação
 
 - Ao iniciar a instalação do Python 3.7.8 Selecione a opção embaixo "Add Python 3.7 to PATH"
+
   Se não quando for exercutar no prompt de comando terá problema de conexão com seus arquivos.
 
 - Click em Customizar a instalação
+
   Aqui você da próximo em Recursos opcionais que já estará tudo selecionado automaticamente.
 
 - Em Opções avançadas
+
   Ative todas opções que estiverem desativadas.
 
 - Instale e pode dar close na instalação finalizada.
