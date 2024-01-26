@@ -207,7 +207,7 @@ https://www.w3schools.com/python
 ### Exemplo
   	 
       if 5 > 2:
-       print("Five is greater than two!")
+       print("Cinco é maior que dois!")
 
 <br>
 
@@ -218,7 +218,7 @@ https://www.w3schools.com/python
 Erro de sintaxe:
 
     if 5 > 2:
-    print("Five is geater than two!")
+    print("Cinco é maior que dois!")
 
 <br>
 
@@ -227,9 +227,9 @@ Erro de sintaxe:
 ### Exemplo
 
     if 5 > 2:
-     print("Five is greater than two!")
+     print("Cinco é maior que dois!")
     if 5 > 2:
-        print("Five is  greater than two!")
+        print("Cinco é maior que dois")
 
 <br>
 
@@ -240,8 +240,8 @@ Erro de sintaxe:
 Erro de sintaxe:
 	
     if 5 > 2:
-    print("Five is greater than two!")
-        print("Five is greater than two!")
+    print("Cinco é maior que dois")
+        print("Cinco é maior que dois")
 
 <br>
 
@@ -256,7 +256,7 @@ Erro de sintaxe:
 Variáveis em Python:
 	
 	x = 5
-	y = "Hello, World!"
+	y = "Olá, Mundo!"
 
 <br>
 
