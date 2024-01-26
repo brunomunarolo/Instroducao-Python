@@ -400,5 +400,16 @@ Você aprenderá mais sobre [tipos de dados](https://www.w3schools.com/python/py
 
  <br>
 
- 
+## Aspas simples ou duplas?
+
+- As variáveis de cadeia de caracteres podem ser declaradas usando aspas simples ou duplas:
+
+### Exemplo
+
+	x = "John"
+	print(x)
+	#aspas duplas são iguais às aspas simples:
+	x = 'John'
+	print(x)
+
 
