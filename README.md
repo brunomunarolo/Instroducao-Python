@@ -280,8 +280,8 @@ Variáveis em Python:
 
 Cometários em Python:
 	
-	#This is a comment.
-	print("Hello, Worlds!")
+	#Isto é um comentário.
+	print("Olá, Mundo!")
 
 <img src="https://github.com/brunomunarolo/Introducao-Python/assets/113137632/1ee78e9b-c639-4f5f-90b1-27316b6eb389">
 
@@ -363,8 +363,8 @@ Cometários em Python:
 - As variáveis não precisam ser declaradas com nenhum tipo específico e podem até mudar de tipo depois de definidas.
 
 ### Exemplo
-	x = 4       # x is of type int
-	x = "Sally" # x is now of type str
+	x = 4       # x é do tipo int
+	x = "Sally" # x agora é do tipo str
 	print(x)
 
 <br>
@@ -408,7 +408,7 @@ Você aprenderá mais sobre [tipos de dados](https://www.w3schools.com/python/py
 
 	x = "John"
 	print(x)
-	#aspas duplas são iguais às aspas simples:
+	#Aspas duplas são iguais às aspas simples:
 	x = 'John'
 	print(x)
 
