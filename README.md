@@ -121,7 +121,7 @@ https://www.w3schools.com/python
 
 - Se você não quiser instalar, pode seguir com o Terminal ou outro software.
 
-      Pressione CTRL + R, escreva na caixa "cmd" e pressione ENTER.
+      Pressione Windows + R, escreva na caixa "cmd" e pressione ENTER.
 
 - Você está dentro do Terminal, acesse o Python dentro do Terminal digitando
   
