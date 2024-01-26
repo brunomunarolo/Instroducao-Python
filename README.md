@@ -416,4 +416,20 @@ Você aprenderá mais sobre [tipos de dados](https://www.w3schools.com/python/py
 	x = 'John'
 	print(x)
 
+<br>
+
+Diferencia maiúsculas de minúsculas
+Os nomes das variáveis diferenciam maiúsculas de minúsculas.
+
+### Exemplo
+
+- Isso criará duas variáveis:
+
+      a = 4
+      A = "Sally"
+      "A" não substituirá "a"
+
+  <br>
+
+  
 
