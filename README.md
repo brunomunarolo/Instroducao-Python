@@ -327,9 +327,9 @@ Cometários em Python:
 ### Exemplo
 
 	"""
-	This is a comment
-	written in
-	more than just one line
+	Este é um comentário
+	escrito em
+	mais do que apenas uma linha
 	"""
 	print("Hello, World!")
 
