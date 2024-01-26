@@ -6,6 +6,10 @@
 
 - Lembre-se de abrir um editor de códigos para seguir junto ao tutorial.
 
+- Use o sumário ao lado para se localizar.
+
+<img src="https://github.com/brunomunarolo/Introducao-Python/assets/113137632/2c37ab24-6a37-4e5f-8cd9-6ece0ec1ba72)">
+
 --------------------------------------------
     Abaixo, a instrução para você instalar no Windows
 --------------------------------------------
