@@ -427,7 +427,9 @@ Os nomes das variáveis diferenciam maiúsculas de minúsculas.
 
       a = 4
       A = "Sally"
-      "A" não substituirá "a"
+      #"A" não substituirá "a"
+      print(a)
+      print(A)
 
   <br>
 
