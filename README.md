@@ -11,7 +11,7 @@
 <img src="https://github.com/brunomunarolo/Introducao-Python/assets/113137632/2c37ab24-6a37-4e5f-8cd9-6ece0ec1ba72)">
 
 --------------------------------------------
-    Abaixo, a instrução para você instalar no Windows
+<img src="https://github.com/brunomunarolo/Introducao-Python/assets/113137632/b477748a-b888-4a72-8471-4a8864e6b546">
 --------------------------------------------
 
 # Introdução ao Python
