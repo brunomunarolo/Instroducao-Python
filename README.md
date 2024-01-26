@@ -12,7 +12,7 @@
 
 --------------------------------------------
 
-<img width="150" height="300" src="https://github.com/brunomunarolo/Introducao-Python/assets/113137632/b477748a-b888-4a72-8471-4a8864e6b546">
+- Logo a frente instalação do Python
 
 --------------------------------------------
 
