@@ -484,6 +484,34 @@ Os nomes das variáveis diferenciam maiúsculas de minúsculas.
 	
 	#This example will produce an error in the result
 
+- Lembre-se de que os nomes das variáveis diferenciam maiúsculas de minúsculas
+
+<br> 
+
+### Nomes de variáveis de várias palavras
+
+- Nomes de variáveis com mais de uma palavra podem ser difíceis de ler.
+
+- Existem várias técnicas que você pode usar para torná-los mais legíveis:
+
+### Estojo Camel
+
+- Cada palavra, exceto a primeira, começa com uma letra maiúscula:
+
+      myVariableName = "John"
+
+### Caso Pascal
+
+- Cada palavra começa com uma letra maiúscula:
+
+      MyVariableName = "John"
+
+### Caso Snake
+
+- Cada palavra é separada por um caractere de sublinhado:
+
+      my_variable_name = "John"
+
 
 
 
