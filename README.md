@@ -453,4 +453,37 @@ Os nomes das variáveis diferenciam maiúsculas de minúsculas.
 
 - Um nome de variável não pode ser nenhuma das palavras-chave do Python.
 
+### Exemplo
+
+### Nomes de variáveis legais:
+
+	myvar = "John"
+	my_var = "John"
+	_my_var = "John"
+	myVar = "John"
+	MYVAR = "John"
+	myvar2 = "John"
+	
+	
+	print(myvar)
+	print(my_var)
+	print(_my_var)
+	print(myVar)
+	print(MYVAR)
+	print(myvar2)
+
+<br>
+
+### Exemplo
+
+### Nomes de variáveis ilegais:
+
+	2myvar = "John"
+	my-var = "John"
+	my var = "John"
+	
+	#This example will produce an error in the result
+
+
+
 
