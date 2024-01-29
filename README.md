@@ -443,7 +443,7 @@ Os nomes das variáveis diferenciam maiúsculas de minúsculas.
 
 - Uma variável pode ter um nome curto (como x e y) ou um nome mais descritivo (idade, carname, total_volume). Regras para variáveis Python:
 
--Um nome de variável deve começar com uma letra ou o caractere de sublinhado
+- Um nome de variável deve começar com uma letra ou o caractere de sublinhado
  
 - Um nome de variável não pode começar com um número
 
